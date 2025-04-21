@@ -61,10 +61,10 @@ UI Integration of ML logic	Used .pkl encoders to match user input to model expec
 The system combines real-time prediction with rich visual insights — supporting healthcare professionals in:
 
 Early identification of high-risk patients
-
 Tailored discharge planning
-
 Data-driven decisions that reduce readmission costs and improve care quality
 
 This end-to-end project showcases the synergy of machine learning, Python deployment, and BI tools in solving real-world healthcare problems.
+
+link to rf_diabetes_model : https://drive.google.com/file/d/1Wr1IonX_BoBiut3w4oVT6SSslmT_O9yi/view?usp=sharing
  
