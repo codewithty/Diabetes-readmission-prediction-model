@@ -43,7 +43,8 @@ Encoders loaded via .pkl: ensuring that what the user sees matches what the mode
 
 Bar chart display: A visual breakdown of readmission likelihood to make the result easy to interpret.
 
-## 🧠 Key Debugging Moment: I initially faced issues with LabelEncoder not recognizing inputs due to missing .fit() state. This was resolved by properly saving and loading encoders after training, not just using fit_transform in the script.
+## 🧠 Key Debugging Moment 
+I initially faced issues with LabelEncoder not recognizing inputs due to missing .fit() state. This was resolved by manually mapping it.
 
 💡 Visual Insights + Prediction: A Unified Experience
 The Power BI report offers an interactive way to explore patterns and distribution in the data — age groups, length of stay, and diabetic status are visually linked to readmission rates.
